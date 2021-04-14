@@ -1,6 +1,6 @@
-# React Tetris
+# React Hooks Tetris
 
-```
-$ yarn
-$ yarn start
-```
+React でテトリス作りました
+
+こちらで実際に遊べます
+<https://hideyuk1-jp.github.io/react-hooks-tetris/>
