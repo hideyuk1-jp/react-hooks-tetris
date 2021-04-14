@@ -53678,7 +53678,7 @@ __webpack_require__.r(__webpack_exports__);
 var Intro = function (_a) {
     var onClickStart = _a.onClickStart;
     return (react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null,
-        react__WEBPACK_IMPORTED_MODULE_0__.createElement(_chakra_ui_layout__WEBPACK_IMPORTED_MODULE_1__.Heading, { as: "h1", pb: "2.0rem" }, "React Tetris"),
+        react__WEBPACK_IMPORTED_MODULE_0__.createElement(_chakra_ui_layout__WEBPACK_IMPORTED_MODULE_1__.Heading, { as: "h1", pb: "2.0rem" }, "React Hooks Tetris"),
         react__WEBPACK_IMPORTED_MODULE_0__.createElement(_chakra_ui_layout__WEBPACK_IMPORTED_MODULE_2__.Flex, { justifyContent: "center", alignItems: "center", flexDir: "row", w: "100%" },
             react__WEBPACK_IMPORTED_MODULE_0__.createElement(_chakra_ui_button__WEBPACK_IMPORTED_MODULE_3__.Button, { colorScheme: "red", onClick: onClickStart }, "Start"))));
 };
