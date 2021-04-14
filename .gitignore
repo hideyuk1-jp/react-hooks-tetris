@@ -30,7 +30,7 @@ thumb
 sketch
 
 .history
-dist
+# dist
 
 ### vscode ###
 .vscode/*
